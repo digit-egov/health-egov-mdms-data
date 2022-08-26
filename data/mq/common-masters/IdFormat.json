@@ -4,7 +4,11 @@
   "IdFormat": [
     {
        "format": "MQ-RN-[cy:yyyy-MM-dd]-[SEQ_EG_RN_ID]",
-       "idname": "rn.registrationid"
+       "idname": "rn.registrationId"
+    },
+    {
+       "format": "MQ-RN-[cy:yyyy-MM-dd]-HHID-[SEQ_EG_RN_ID]",
+       "idname": "rn.householdId"
     }
   ]
 }
