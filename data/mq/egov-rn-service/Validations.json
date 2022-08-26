@@ -1,0 +1,11 @@
+{
+  "tenantId": "mq",
+  "moduleName": "egov-rn-service",
+  "validations": [
+    {
+      "name": "checkIfAlreadyExists",
+      "code": "CHECK_IF_ALREADY_EXISTS",
+      "active": true
+    }
+  ]
+}
