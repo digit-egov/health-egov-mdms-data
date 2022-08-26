@@ -1,0 +1,10 @@
+{
+  "tenantId": "mq",
+  "moduleName": "common-masters",
+  "IdFormat": [
+    {
+       "format": "MQ-RN-[cy:yyyy-MM-dd]-[SEQ_EG_RN_ID]",
+       "idname": "rn.registrationid"
+    }
+  ]
+}
