@@ -7,6 +7,12 @@
       "actionid": 2416,
       "actioncode": "",
       "tenantId": "mq"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2417,
+      "actioncode": "",
+      "tenantId": "mq"
     }
   ]
 }
