@@ -13,6 +13,18 @@
       "serviceCode": "rn-service",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2417,
+      "name": "RNService Search Registration",
+      "url": "/egov-rn-service/registration/v1/_search",
+      "displayName": "Search Registration",
+      "orderNumber": 0,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "rn-service",
+      "code": "null",
+      "path": ""
     }
   ]
 }
