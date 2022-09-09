@@ -29,7 +29,7 @@
     {
       "id": 2418,
       "name": "RNService Get All Registration",
-      "url": "/egov-rn-service/registration/v1/_list,
+      "url": "/egov-rn-service/registration/v1/_list",
       "displayName": "Get All Registration",
       "orderNumber": 0,
       "parentModule": "",
