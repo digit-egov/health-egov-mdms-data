@@ -13,6 +13,12 @@
       "actionid": 2417,
       "actioncode": "",
       "tenantId": "mq"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2418,
+      "actioncode": "",
+      "tenantId": "mq"
     }
   ]
 }
