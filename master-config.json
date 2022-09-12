@@ -8,6 +8,15 @@
 			]
 		}
 	},
+	"dynamic-forms": {
+		"forms": {
+			"masterName": "forms",
+			"isStateLevel": true,
+			"uniqueKeys": [
+				"$.schema"
+			]
+		}
+	},
 	"ACCESSCONTROL-ROLES": {
 		"roles": {
 			"masterName": "roles",

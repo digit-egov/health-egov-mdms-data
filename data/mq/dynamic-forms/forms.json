@@ -1,0 +1,20 @@
+{
+  "tenantId": "mq",
+  "moduleName": "dynamic-forms",
+  "forms": [
+    {
+      "elements":[
+        {
+          "type":"dataElement",
+          "name":"Middle name",
+          "key": "middleName",
+          "dataType":"text",
+          "uiElementType":"text",
+          "value":null,
+          "hint":"Enter middle name"
+        }
+      ],
+      "schema": "householdDetails"
+    }
+  ]
+}
